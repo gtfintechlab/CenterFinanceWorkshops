@@ -13,6 +13,8 @@ The simplest reason is that Python is very popular programming language. The ima
 
 ![](images/PythonOverTime.png)
 
+You may be wondering why should popularity be a reason for using a language. Having a large community of Python users means you are able likely to get help from others when you ask.  One consequence of the language being popular is that you will find that there is a Python library you can import to help accomplish your analytical or machine learning goals without writing all your code from scratch. Would ChatGPT be better at answering popular language programming questions or languages that are less common?
+
 ## Jupyter Notebooks and Datasets
 
 In order, the notebooks used are: 
