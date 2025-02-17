@@ -10,7 +10,7 @@ In order, the notebooks used are: 
 - Dictionaries.ipynb
 
 ## Learn by doing portion of the lecture
-### We can work on and go over some basic Python exercises.  While doing these exercises, It is important to keep in mind that there are several ways to solve each of these exercises.
+We can work on and go over some basic Python exercises.  While doing these exercises, It is important to keep in mind that there are several ways to solve each of these exercises.
 
 - Exercises_Python
 - Exercises_Python_Solutions.ipynb
