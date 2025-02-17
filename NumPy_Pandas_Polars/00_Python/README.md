@@ -1,4 +1,19 @@
-# Jupyter Notebooks and Datasets
+# Objectives
+- What is the Python Programming Language
+- Why use Python for Data Science
+- What are Jupyter Notebooks
+
+## What is the Python Programming Language
+Python was designed by Guido van Rossum and first became available for use in 1991. Python's syntax is not complicated when compared to many other languages. This will allow you to focus on learning programming and machine learning/data science concepts rather than a complicated language. 
+
+One important thing to remember is that Python's simplicity relies upon proper indentation, which you'll find helps you to write more clean and readable code. If you've dabbled with HTML or other languages where coding style is emphasized, you know the importance of indentation already, but you'll soon learn why Python requires it.
+
+## Why use Python for Finance
+The simplest reason is that Python is very popular programming language. The image below shows the percentage of [Stack Overflow questions over time](https://trends.stackoverflow.co/?tags=python,javascript,java,c%23,php,c%2B%2B). While this is not necessarily all due to the usage of Python for data science/machine learning, it is a big part of the reason why. 
+
+![](images/PythonOverTime.png)
+
+## Jupyter Notebooks and Datasets
 
 In order, the notebooks used are: 
 
@@ -9,7 +24,7 @@ In order, the notebooks used are: 
 - Tuples.ipynb
 - Dictionaries.ipynb
 
-## Learn by doing portion of the lecture
+## Learn by Doing
 We can work on and go over some basic Python exercises.  While doing these exercises, It is important to keep in mind that there are several ways to solve each of these exercises.
 
 - Exercises_Python
