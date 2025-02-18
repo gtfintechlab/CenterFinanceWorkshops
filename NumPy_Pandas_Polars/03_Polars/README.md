@@ -1,4 +1,22 @@
-# Introduction to Python for Finance (NumPy, Pandas, Polars) Workshop
+# Objectives
+- 
+- 
+- 
+
+## What is Polars
+
+![](images/macbookProNumberCores.png)
+
+![](images/SinglecoreMulticoreMultinode.jpg)
+
+## Jupyter Notebooks and Datasets
+
+In order, the notebooks used are: 
+
+- 01
+
+## Learn by doing portion of the lecture
+
 
 
 
