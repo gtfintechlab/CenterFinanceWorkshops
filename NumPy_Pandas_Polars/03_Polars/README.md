@@ -23,7 +23,7 @@ Polars is a high-performance DataFrame library designed for efficient data manip
 
 In order, the notebooks used are: 
 
-- 01
+- 01_BasicsPolars.ipynb
 
 ## Learn by Doing
 
