@@ -1,7 +1,8 @@
 # Objectives
-- 
-- 
-- 
+- Load, filter, and transform datasets using the Polars library  
+- Perform efficient group-based operations and aggregations   
+- Leverage parallelism for faster data processing  
+- Export and save processed data to various file formats (CSV, Parquet, etc.)
 
 ## Why use Polars for Data Analysis
 
