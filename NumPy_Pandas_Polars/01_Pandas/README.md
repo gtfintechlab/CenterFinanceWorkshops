@@ -6,8 +6,7 @@
 ## Why use Pandas for Data Manipulation
 This lesson will give you the tools to efficiently manipulate, analyze, and explore data using pandas. Pandas is a powerful Python library that makes it easy to work with structured data, such as CSV files, databases, and data scraped from the web. Whether you're cleaning data, performing aggregations, or analyzing trends, pandas provides a flexible and intuitive framework to streamline your workflow. The pandas table below shows how much interest and principal are paid each month on a 34689.96 dollar loan. 
 
-![](images/total_interest_paid_differentmortgages.png)
-
+![](images/payment_table.png)
 
 ## Jupyter Notebooks and Datasets
 
@@ -33,8 +32,3 @@ In case you are curious about how the dataset used for these notebooks was creat
 - Assuming you get an 6% fixed 30 year home loan, what is your payment (no fees)
 - Assuming you get an 6% fixed 30 year home loan, how much interest do you pay over the course of a loan (you will have to do some research to figure this one out).
 - (bonus hard question if you get bored) Assuming you got an 6% fixed 30 year home loan, and you refinance the loan 5 years into the loan at 5% fixed, what would be the difference in total interest payed between the loans. 
-
-## Content Inspired by the Sources
-
-- [The Cost of Financing a Car](https://medium.com/towards-data-science/the-cost-of-financing-a-new-car-car-loans-c00997f1aee?source=friends_link&sk=6f006d48fb46dbd82e52db2ec3b12890) by Michael Galarnyk
-- [Python for Data Visualization (LinkedIn Learning)](https://www.linkedin.com/learning-login/share?account=2163426&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fpython-for-data-visualization-2023%3Ftrk%3Dshare_ent_url%26shareId%3DDGcmsACFQiarZzlJgzHfzQ%253D%253D) by Michael Galarnyk 
