@@ -14,7 +14,7 @@ Polars is a high-performance DataFrame library designed for efficient data manip
 - **Parallelism:** Polars automatically utilizes all available CPU cores, enhancing performance without additional configuration.
 ![](images/SinglecoreMulticoreMultinode.jpg)
 - **Lazy Evaluation:** Polars supports lazy evaluation, optimizing query execution by deferring computations until necessary. [Migration from pandas](https://docs.pola.rs/user-guide/migration/pandas/).
-- **Out-of-Core Processing:** Polars can handle datasets larger than available memory through its streaming API, enabling efficient processing without loading all data into RAM. This is as opposed to using more computational resources. 
+- **Out-of-Core Processing:** Polars can handle datasets larger than available memory through its streaming API, enabling efficient processing without loading all data into RAM. This is as opposed to [using more computational resources](https://github.com/gtfintechlab/CenterFinanceWorkshops/blob/main/NumPy_Pandas_Polars/03_Polars/images/more_compute.jpg). 
 ![](images/macbookProNumberCores.png)
 - **Interoperability:** Polars adheres to the Apache Arrow memory format, facilitating zero-copy data sharing with other tools and libraries.
 
