@@ -27,7 +27,7 @@ In order, the notebooks used are: 
 - Dictionaries.ipynb
 
 ## Learn by Doing
-We can work on and go over some basic Python exercises.  While doing these exercises, It is important to keep in mind that there are several ways to solve each of these exercises.
+While doing these exercises, it is important to keep in mind that there are several ways to solve each of these exercises.
 
 - Exercises_Python
 - Exercises_Python_Solutions.ipynb
