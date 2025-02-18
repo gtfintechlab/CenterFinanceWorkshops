@@ -5,7 +5,7 @@
 
 ## Jupyter Notebooks and Datasets
 
-In order,tea the notebooks used are: 
+In order, the notebooks used are: 
 
 - 01_IntroPandas.ipynb
 - 02_Pandas.ipynb
@@ -20,7 +20,7 @@ In order,tea the notebooks used are: 
 - 11_ConvertNumPyArrayDict.ipynb
 - 12_ExportCSVExcel.ipynb
 
-In case you are curious about how the dataset used for this first video was created, here is a link to learn more: [The Cost of Financing a Car (Car Loans)](https://medium.com/towards-data-science/the-cost-of-financing-a-new-car-car-loans-c00997f1aee). This concept is applicable for mortgages as well (MortgagePayment.ipynb).
+In case you are curious about how the dataset used for these notebooks was created, here is a link to learn more: [The Cost of Financing a Car (Car Loans)](https://medium.com/towards-data-science/the-cost-of-financing-a-new-car-car-loans-c00997f1aee). This concept is applicable for mortgages as well (MortgagePayment.ipynb).
 
 ## Learn by Doing
 - Compare car interest payments on 3,5,7, and 10% fixed rate loans. 
