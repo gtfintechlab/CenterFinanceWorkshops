@@ -36,6 +36,8 @@ If you are having trouble with these exercises, don't worry. They aren't repres
 
 ## Recommended Python Resources (Optional)
 
+- [Links to Notebooks in Colaboratory](https://drive.google.com/drive/folders/1ldxWIaLcG2QtB1hb6H_pVYwa2rTlnMga?usp=sharing)
+
 - [Python Tutorial for Beginners 2: Strings – Working with Textual Data](https://youtu.be/k9TUPpGqYTo?si=BJ5feGqtcFzLkD6t)
 
 - [Python Tutorial for Beginners 3: Integers and Floats – Working with Numeric Data](https://youtu.be/khKv-8q7YmY?si=DEnnfNPG_yPCJdoC)
