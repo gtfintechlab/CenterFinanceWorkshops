@@ -3,6 +3,9 @@
 - Identify the difference between MATLAB-style vs object oriented syntax for the Matplotlib library
 - Save plots to files
 
+## Google Colaboratory Link
+[Visualization Workshop Material](https://drive.google.com/drive/folders/1YpHmtivm6z26pLyARBTrHtyhZNi5PqS2?usp=sharing)
+
 ## Why use Python for Data Visualization
 This lesson will give you the tools to be able to visualize your data. Data visualization is not just important to be able to explore and understand your data, but also to understand how your machine learning algorithm is performing (e.g. confusion matrices, [loss curves](https://machinelearningmastery.com/plotting-the-training-and-validation-loss-curves-for-the-transformer-model/)). This lesson covers how to create plots using the matplotlib, seaborn, and pandas libraries. This includes confusion matrices, boxplots, and more.
 
