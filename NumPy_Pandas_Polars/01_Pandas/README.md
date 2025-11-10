@@ -3,6 +3,9 @@
 - Use the Pandas library to load data
 - Identify and handle missing data
 
+## Google Colaboratory Link
+[Pandas Workshop Material](https://drive.google.com/drive/folders/1zcq7wSv3RkokL1uLn-vNf1AqyiyzO0ET?usp=sharing](https://drive.google.com/drive/folders/1zcq7wSv3RkokL1uLn-vNf1AqyiyzO0ET?usp=sharing)
+
 ## Why use Pandas for Data Manipulation
 This lesson will give you the tools to efficiently manipulate, analyze, and explore data using pandas. Pandas is a powerful Python library that makes it easy to work with structured data, such as CSV files, databases, and data scraped from the web. Whether you're cleaning data, performing aggregations, or analyzing trends, pandas provides a flexible and intuitive framework to streamline your workflow. The pandas table below shows how much interest and principal are paid each month on a 34689.96 dollar loan. 
 
